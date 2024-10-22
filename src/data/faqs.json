@@ -1,0 +1,18 @@
+[
+    {
+      "question": "What is ApplyDirectly?",
+      "answer": "ApplyDirectly is a Job Portal Application owned by Algovibe allows companies to post Google Forms job so that user can select and fill form so that he can get direct referral without creating any third party account on any job portal. It provides features for both job seekers and employers, with user-friendly interfaces and secure authentication."
+    },
+    {
+      "question": "How do I post a job?",
+      "answer": "As an employer, you can post a job by navigating to the 'Post Job' section after logging in. Fill in the job details and add a Valid referral form and submit the form to create a new job listing."
+    },
+    {
+      "question": "How can I search for jobs?",
+      "answer": "Job seekers can search for jobs by keywords, location, category, and other filters using the search bar on the homepage or the dedicated job search page."
+    },
+    {
+      "question": "How do I apply for a job?",
+      "answer": "To apply for a job, click on the job listing and follow the application instructions provided. Then you need to fill the google form and provide additional information. So that you can get direct referrals from the employee or HR of that company."
+    }
+  ]
